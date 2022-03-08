@@ -166,7 +166,7 @@ class SelectTool extends Tool {
         "mousemove": this.mousemove_handler.bind(this)
     }
 
-    ICON_PATH = "/bezier/img/select_tool.png";
+    ICON_PATH = "img/select_tool.png";
     MAGNET_RADIUS = 15;
     grabbingPoint;
 
@@ -262,7 +262,7 @@ class CurveTool extends Tool {
         "mousemove": this.mousemove_handler.bind(this)
     }
 
-    ICON_PATH = "/bezier/img/curve_tool.png";
+    ICON_PATH = "img/curve_tool.png";
     controlPoints;
     visiblePoints;
     curveState = false; // false : curve not started, true : curve started
