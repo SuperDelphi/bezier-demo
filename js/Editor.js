@@ -336,7 +336,7 @@ class EditorContext {
     }
 
     init() {
-        this.useTool(this.SELECT_TOOL);
+        this.useTool(this.CURVE_TOOL); // This is the default tool
     }
 
     useTool(tool) {
