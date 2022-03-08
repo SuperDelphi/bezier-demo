@@ -8,7 +8,7 @@ export class EditorContext {
 
     STROKE_STYLE = "#CCCCCC";
     LINE_WIDTH = 1.5;
-    RESOLUTION = 25;
+    RESOLUTION = 35;
 
     // H = Hover, S = Selected
     POINT_FILL = "white";
