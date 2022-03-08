@@ -14,11 +14,10 @@ editorContext.init();
 // Assigning the buttons
 const selectToolBtn = document.getElementById("select-tool-btn");
 const curveToolBtn = document.getElementById("curve-tool-btn");
+
 selectToolBtn.addEventListener("click", () => {
-    console.log("Outil Sélection");
     editorContext.useTool(editorContext.SELECT_TOOL);
 });
 curveToolBtn.addEventListener("click", () => {
-    console.log("Outil Plume");
     editorContext.useTool(editorContext.CURVE_TOOL);
 });
