@@ -1,3 +1,5 @@
+import { EditorContext } from "./js/EditorContext.js";
+
 // Initializing the canvas
 const CANVAS_SIZE = [800, 800];
 const canvas = document.getElementById("canvas");
