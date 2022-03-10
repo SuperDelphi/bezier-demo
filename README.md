@@ -2,7 +2,7 @@
 
 [Version française](https://github.com/SuperDelphi/bezier-demo/blob/master/README.fr.md)
 
-This is a simple demo of a bezier curve editor on an HTML canvas. You can access a live demo [here](https://frenchforge.fr/bezier).
+This is a simple demo of a Bézier curve editor on an HTML canvas. You can access a live demo [here](https://frenchforge.fr/bezier).
 
 *Note: This tool is made solely for educational purposes. It just adds... curves. That's all.*
 
